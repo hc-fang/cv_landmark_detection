@@ -1,0 +1,5 @@
+matplotlib
+tensorboardX
+opencv-python
+torchvision
+einops
